@@ -1,0 +1,56 @@
+Monza:
+Resolution=0.2
+Total expanded Nodes: 43634
+Planning took: 777.3041517734528 sec.
+The error is 0.010000000000000002
+Number of collision 0
+Success: True
+Path length: 76
+
+Running room test...
+Total expanded Nodes: 517
+Planning took: 29.725571870803833 sec.
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 13
+
+Running tower test...
+Total expanded Nodes: 2252
+Planning took: 90.15981101989746 sec.
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 37
+
+Running window test...
+Total expanded Nodes: 2904
+Planning took: 79.92044425010681 sec.
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 27
+
+Running flappy bird test...
+Total expanded Nodes: 3461
+Planning took: 111.77223348617554 sec.
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 30
+
+Running maze test...
+Total expanded Nodes: 7971
+Planning took: 669.5742995738983 sec.
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 80
+
+Running single cube test...
+Total expanded Nodes: 111
+Planning took: 1.089869737625122 sec.
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 8

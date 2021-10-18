@@ -1,0 +1,79 @@
+tower:
+1452 samples
+Planning took: 2.085236072540283 sec.
+
+The error is 0.0
+Number of collision 1
+Success: False
+Path length: 45
+
+window:
+78 samples
+Planning took: 0.1425776481628418 sec.
+
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 33
+
+flappy:
+302 samples
+Planning took: 0.46417903900146484 sec.
+
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 43
+
+single_cube:
+11 samples
+Planning took: 0.02066779136657715 sec.
+
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 20
+
+monza:
+Checking if can connect to goal at 4076 samples
+Can connect to goal
+Planning took: 4.2793567180633545 sec.
+
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 116
+
+maze:
+Checking if can connect to goal at 78137 samples
+Can connect to goal
+Planning took: 72.79916572570801 sec.
+
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 278
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+room:
+Checking if can connect to goal at 2685 samples
+Can connect to goal
+Planning took: 4.637768745422363 sec.
+
+The error is 0.0
+Number of collision 0
+Success: True
+Path length: 51
+
